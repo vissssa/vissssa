@@ -20,3 +20,5 @@ python, flask, linux, 架构，生活，科技
 
 [![vissssa's github stats](https://github-readme-stats.vercel.app/api?username=vissssa)](https://github.com/anuraghazra/github-readme-stats)
 
+### 游记
+[2020/7/30 嵊泗游](http://vissssa.gitee.io/blog/posts/d7fc5d2f/)
