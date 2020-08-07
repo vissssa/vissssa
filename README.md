@@ -16,9 +16,10 @@ python, flask, linux, 架构，生活，科技
 
 我的一些笔记，人生感悟、读后感、开箱评测等 
 
-### GitHub Stats
+### 游记
+- 2020-7-30  [嵊泗游](http://vissssa.gitee.io/blog/posts/d7fc5d2f/)
 
+
+### GitHub Stats
 [![vissssa's github stats](https://github-readme-stats.vercel.app/api?username=vissssa)](https://github.com/anuraghazra/github-readme-stats)
 
-### 游记
-[2020/7/30 嵊泗游](http://vissssa.gitee.io/blog/posts/d7fc5d2f/)
