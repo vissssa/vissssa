@@ -10,13 +10,23 @@
 | ---------- | ------ | ---- | ------------ | ------------ | ---- |
 | 简明逻辑学 | 第二章 | 0%   | 2020/8/5     | 2020/8/5     |      |
 
+
+
 ### 简介
 
 python, flask, linux, 架构，生活，科技  
 
 我的一些笔记，人生感悟、读后感、开箱评测等 
 
+
+
 ### GitHub Stats
 
 [![vissssa's github stats](https://github-readme-stats.vercel.app/api?username=vissssa)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+### 开发机配置
+
+- [配置github的Host, 流畅冲浪](Configuration/github_host.md)
 
