@@ -2,7 +2,17 @@
 <img src="https://vissssa-imgs-1252712312.cos.ap-shanghai.myqcloud.com/hexo/%E5%A4%B4%E5%83%8F_%E5%9C%86%E5%BD%A2.png" width = "100" height = "100" />
 </div>
 
-# vissssa IT Life
+# ZY Life
+
+### 简介
+
+python, flask, linux, 架构，生活，科技  
+
+我的一些笔记，人生感悟、读后感、开箱评测等 
+
+### 游记
+
+- 2020-7-30  [嵊泗游](http://vissssa.gitee.io/blog/posts/d7fc5d2f/)
 
 ### 2020读书进度
 
@@ -12,16 +22,7 @@
 
 
 
-### 简介
-
-python, flask, linux, 架构，生活，科技  
-
-我的一些笔记，人生感悟、读后感、开箱评测等 
-
-
-
 ### GitHub Stats
-
 [![vissssa's github stats](https://github-readme-stats.vercel.app/api?username=vissssa)](https://github.com/anuraghazra/github-readme-stats)
 
 
