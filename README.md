@@ -29,5 +29,5 @@ python, flask, linux, 架构，生活，科技
 
 ### 开发机配置
 
-- [配置github的Host, 流畅冲浪](Configuration/github_host.md)
+- [配置github的Host, 流畅冲浪](http://vissssa.gitee.io/blog/posts/3b37a929/)
 
